@@ -4,8 +4,8 @@ import setuptools
 setuptools.setup(
     name='hitherecli',  
     version='0.1',
-    author="Andrew Odendaal",
-    author_email="andrew@ao.gl",
+    author="Andrew O",
+    author_email="support@ataiva.com",
     description="Saying hi from the cli",
     long_description="Saying hi from the cli",
     url="https://github.com/ao/hitherecli",
